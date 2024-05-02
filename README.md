@@ -9,7 +9,10 @@
 <div style="display: flex; justify-content: center;">
 
   <!-- Gambar pertama -->
-
+<a href="https://www.linkedin.com/in/rifki-virzya-851bb6284">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+</a>
+<!-- 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifki-virzya-851bb6284/)
 
   <!-- Spasi antara gambar -->
@@ -17,24 +20,32 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Gambar kedua -->
+<a href="https://twitter.com/rifki_virzya">
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
 
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rifki_virzya)
+<!-- [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rifki_virzya) -->
 
   <!-- Spasi antara gambar -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Gambar ketiga -->
+<a href="https://www.instagram.com/rifki_virzya">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
 
-[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rifki_virzya)
+<!-- [![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rifki_virzya) -->
 
   <!-- Spasi antara gambar -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Gambar keempat -->
-
-[![email](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkiqizara23@gmail.com)
+<a href="mailto:rifkiqizara23@gmail.com">
+<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="instagram" />
+</a>
+<!-- [![email](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkiqizara23@gmail.com) -->
 
   <!-- Spasi antara gambar -->
 
@@ -100,8 +111,6 @@
    <img src= "https://github-profile-trophy.vercel.app/?username=rifchzschki&theme=onedark" />
 </p>
 <!-- <br/> -->
-
-
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------Extra stuff ------------------------------------------------------------------------------------------>
