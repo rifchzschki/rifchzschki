@@ -17,7 +17,7 @@
 
   <!-- Spasi antara gambar -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
   <!-- Gambar kedua -->
 <a href="https://twitter.com/rifki_virzya">
@@ -28,7 +28,7 @@
 
   <!-- Spasi antara gambar -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
   <!-- Gambar ketiga -->
 <a href="https://www.instagram.com/rifki_virzya">
@@ -39,7 +39,7 @@
 
   <!-- Spasi antara gambar -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
   <!-- Gambar keempat -->
 <a href="mailto:rifkiqizara23@gmail.com">
@@ -49,7 +49,6 @@
 
   <!-- Spasi antara gambar -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Dan seterusnya... -->
 
