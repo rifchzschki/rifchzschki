@@ -2,6 +2,8 @@
 <img  src="assets/borderseperator.gif">
 <p align="center">
 <img src ="assets/1.gif" style="margin-top:30">
+</p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&pause=100&color=B9C0F7&background=FFF7F700&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Rifki+Virzya;Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
 </p>
 <img  src="assets/borderseperator.gif">
@@ -91,17 +93,21 @@
 
 </br>
 <p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rifchzschki&show_icons=true&theme=tokyonight&count_private=true" width="445" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rifchzschki&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Rifki Virzya" width="390"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rifchzschki&hide=issues&show_icons=true&theme=tokyonight&count_private=true" height="200" />
 </p>
+  <br/>
+<p align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rifchzschki&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Rifki Virzya"  height="200"/>
+</p>
+
 <br/>
 
-<p align="center"> 
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifchzschki&theme=blue-green" />
-
+</p>
+  <br/>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rifchzschki&column=-1&theme=dracula&rank=-C,-?"/>
-   
 </p>
 <!-- <br/> -->
 
