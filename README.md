@@ -100,7 +100,8 @@
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifchzschki&theme=blue-green" />
 
-   <img src= "https://github-profile-trophy.vercel.app/?username=rifchzschki&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rifchzschki&column=-1&theme=dracula&rank=-C,-?"/>
+   
 </p>
 <!-- <br/> -->
 
