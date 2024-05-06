@@ -1,7 +1,7 @@
 <!-- ## Hi 👋, I am Rifki Virzya, a technology ❤ enthusiast. -->
 <img  src="assets/borderseperator.gif">
 <p align="center">
-<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxmY3YzNXdqbnk3YW9saHFzMXA4dGYzcThkcjE0aHliMWlscm43byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" style="margin-top:30">
+<img src ="assets/1.gif" style="margin-top:30">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&pause=100&color=B9C0F7&background=FFF7F700&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Rifki+Virzya;Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
 </p>
 <img  src="assets/borderseperator.gif">
@@ -17,8 +17,6 @@
 
   <!-- Spasi antara gambar -->
 
-
-
   <!-- Gambar kedua -->
 <a href="https://twitter.com/rifki_virzya">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
@@ -27,8 +25,6 @@
 <!-- [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rifki_virzya) -->
 
   <!-- Spasi antara gambar -->
-
-
 
   <!-- Gambar ketiga -->
 <a href="https://www.instagram.com/rifki_virzya">
@@ -39,8 +35,6 @@
 
   <!-- Spasi antara gambar -->
 
-
-
   <!-- Gambar keempat -->
 <a href="mailto:rifkiqizara23@gmail.com">
 <img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="instagram" />
@@ -48,7 +42,6 @@
 <!-- [![email](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkiqizara23@gmail.com) -->
 
   <!-- Spasi antara gambar -->
-
 
   <!-- Dan seterusnya... -->
 
